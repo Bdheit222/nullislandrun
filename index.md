@@ -20,8 +20,7 @@ If you are attending the FOSS4G Dar es Salaam 2018 conference keep a look out fo
 
 <a name="people"></a>
 ## What People are sharing
-<a class="twitter-timeline" href="https://twitter.com/GuidoS?ref_src=twsrc%5Etfw">Tweets by GuidoS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+<a href="https://twitter.com/intent/tweet?button_hashtag=NINaNK&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #LoveTwitter</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <a name="faq"></a>
 ## FAQ
 
