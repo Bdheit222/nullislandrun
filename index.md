@@ -13,7 +13,7 @@ Applied Geographics is thrilled to support this event We want to promote the gre
 If you are attending the FOSS4G Dar es Salaam 2018 conference keep a look out for @Guidos to get your NaN K participation sticker.
 
 <div id="map"></div>
-
+  <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"></script>
   <script>
 
   // initialize the map
