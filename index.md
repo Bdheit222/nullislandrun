@@ -14,7 +14,7 @@ If you are attending the FOSS4G Dar es Salaam 2018 conference keep a look out fo
 
 <div style="width:200px;height:200px;border: black solid 1px;"><div id="map" style="width:200px;height:200px;"></div></div>
   <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"></script>
-<script lang='babel' type='text/babel'>
+<script>
   const map = L.map('map').setView([37, -90], 6);
 
   const tonerUrl = "http://{S}tile.stamen.com/toner-lite/{Z}/{X}/{Y}.png";
@@ -29,7 +29,8 @@ If you are attending the FOSS4G Dar es Salaam 2018 conference keep a look out fo
     attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY SA</a>'
   });
 
-  basemap.addTo(map);  </script>
+  basemap.addTo(map);  
+  </script>
 <a name="people"></a>
 ## What People are sharing
 
