@@ -37,23 +37,18 @@ If you are attending the FOSS4G Dar es Salaam 2018 conference keep a look out fo
 
 ## FAQ
 
-**What is Null Island?**
-
+**What is Null Island?**  
 There is a long and storied history to cartographic anomalies. In the past a map could contain areas with dragons symbolizing uncharted or rough areas. More recently you can find paper roads which have mysterious meaning.
 
 Technology today still faces these types of anomalies. When location data is missing coordinate information they fall onto the mysterious Null Island. It is said to be located near the intersection of the equator and the prime meridian with the coordinates of (0,0). To find out more please [visit the Null Island wiki page](https://en.wikipedia.org/wiki/Null_Island "Null Island Wiki Page").
 
-### How do you get to Null Island
-
+**How do you get to Null Island**  
 The reccomended route to Null Island is to go to Kings Cross in London, go through platform 9 and 3/4, take the train to Hogwarts, borrow a dragon and then fly it to Null Island. Just open a map and look for areas marked "here lie dragons".
 
-
-### What is NaN?
-
+**What is NaN?**  
 NaN is a term to describe results that are Not a Number in the Javascript programming language. It is what happens when you try to add apples with integers. For more information please [visit the NaN wiki page](https://en.wikipedia.org/wiki/NaN "NaN Wiki Page").
 
-### How many kilometers is a NaN K?
-
+**How many kilometers is a NaN K?**  
 NaN is Not a Number, so it could be apple kilometers in length or orange kilometers in length. We don’t really know, but if you figure it out let us know.
 
 ### How do I participate in the run?
