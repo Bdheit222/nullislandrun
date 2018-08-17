@@ -12,8 +12,22 @@ Applied Geographics is thrilled to support this event We want to promote the gre
 
 If you are attending the FOSS4G Dar es Salaam 2018 conference keep a look out for @Guidos to get your NaN K participation sticker.
 
-![Artist redition of Null Island](https://raw.githubusercontent.com/gnip/null-island/master/null_island_2013.svg)
+<div id="map"></div>
 
+  <script>
+
+  // initialize the map
+  var map = L.map('map').setView([42.35, -71.08], 13);
+
+  // load a tile layer
+  L.tileLayer('http://tiles.mapc.org/basemap/{z}/{x}/{y}.png',
+    {
+      attribution: 'Tiles by <a href="http://mapc.org">MAPC</a>, Data by <a href="http://mass.gov/mgis">MassGIS</a>',
+      maxZoom: 17,
+      minZoom: 9
+    }).addTo(map);
+
+  </script>
 <a name="people"></a>
 ## What People are sharing
 
