@@ -1,7 +1,7 @@
+# [Welcome](#welcome)
+# [What people are saying](#people)
+# [FAQ](#faq)
 ![Null Island NaN K Run Logo](NINaNk.png)
-- [Welcome](#welcome)
-- [What people are saying](#people)
-- [FAQ](#faq)
 
 
 Welcome to the **Null Island NaN K Run**. This classic run features a scenic NaN kilometer course around Null Island and supports all the individuals who champion Open Source Geospatial around the world. We welcome all to join us in this incredible run.
@@ -44,6 +44,9 @@ If you are attending the FOSS4G Dar es Salaam 2018 conference keep a look out fo
 There is a long and storied history to cartographic anomalies. In the past a map could contain areas with dragons symbolizing uncharted or rough areas. More recently you can find paper roads which have mysterious meaning.
 
 Technology today still faces these types of anomalies. When location data is missing coordinate information they fall onto the mysterious Null Island. It is said to be located near the intersection of the equator and the prime meridian with the coordinates of (0,0). To find out more please [visit the Null Island wiki page](https://en.wikipedia.org/wiki/Null_Island "Null Island Wiki Page").
+
+### How to get to Null Island
+
 
 ### What is NaN?
 
