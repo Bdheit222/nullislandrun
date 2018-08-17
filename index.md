@@ -38,6 +38,7 @@ If you are attending the FOSS4G Dar es Salaam 2018 conference keep a look out fo
 <a class="twitter-moment" href="https://twitter.com/i/moments/1030193700436107264">FOSS4G</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <a name="faq"></a>
+
 ## FAQ
 
 ### What is Null Island?
