@@ -12,7 +12,7 @@ Join in the fun by sharing a photo of your office or home workspace with your cu
 
 Applied Geographics is thrilled to support this event We want to promote the great people who make up the open source geospatial community around the world, even on Null Island. As members of this community we have benefited from the amazing open source projects and their contributors. The Null Island Run is a great way for us to give back by adding some fun to events everywhere.
 
-If you are attending the FOSS4G Dar es Salaam 2018 conference keep a look out for [@Guidos](https://twitter.com/guidos) to get your NaN K participation sticker.
+If you are attending the [FOSS4G Dar es Salaam 2018](https://2018.foss4g.org/) conference keep a look out for [@Guidos](https://twitter.com/guidos) to get your NaN K participation sticker.
 
 <!-- <div style="width:200px;height:200px;border: black solid 1px;position:absolute"><div id="map" style="width:200px;height:200px;"></div></div>
   <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"></script>
@@ -58,7 +58,7 @@ You can participate in the “run” by sharing the following on twitter with th
 - Your location (e.g. town, state, province, country),  whatever you are comfortable sharing online.
 
 **How does one train for this run?**  
-We recommend reading Eloquent Javascript, drinking water, breathing air, and stretching. You really are training to have fun, so whatever works best for you.
+We recommend reading [Eloquent Javascript](https://eloquentjavascript.net/), drinking water, breathing air, and stretching. You really are training to have fun, so whatever works best for you.
 
 **Will there be porta-potties, snacks, or gift bags?**  
 There will be no porta-potties, snacks, or gift bags. Heck, there will be no race course, volunteers, start or finish line either. Participation stickers will be available at conferences when a run representative is present. 
