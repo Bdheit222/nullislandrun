@@ -51,26 +51,22 @@ NaN is a term to describe results that are Not a Number in the Javascript progra
 **How many kilometers is a NaN K?**  
 NaN is Not a Number, so it could be apple kilometers in length or orange kilometers in length. We don’t really know, but if you figure it out let us know.
 
-### How do I participate in the run?
+**How do I participate in the run?**  
 You can participate in the “run” by sharing the following on twitter with the hashtag #NINaNK:
 
 - A photo of your workstation with your favorite open source geospatial tools on the screen. You can decide to be in the photo or not, it is up to you.
 - Your location (e.g. town, state, province, country),  whatever you are comfortable sharing online.
 
-### How does one train for this run?
-
+**How does one train for this run?**  
 We recommend reading Eloquent Javascript, drinking water, breathing air, and stretching. You really are training to have fun, so whatever works best for you.
 
-### Will there be porta-potties, snacks, or gift bags?
-
+**Will there be porta-potties, snacks, or gift bags?**  
 There will be no porta-potties, snacks, or gift bags. Heck, there will be no race course, volunteers, start or finish line either. Participation stickers will be available at conferences when a run representative is present. 
 
-### When is this happening?
-
+**When is this happening?**  
 It depends on where you live, the angle of the sun and stars, what your twitter situation is, and how much fun you want to have. Feel free to take a photo of your workstation whenever you like and share it on twitter for all to see with the hashtag #NINaNk.
 
-### How long will it take to run the NaN K?
-
+**How long will it take to run the NaN K?**  
 Running a NaN K will take less time than reading this sentence no matter what your current minute mile PR is.
 
 <a name="tweets"></a>
