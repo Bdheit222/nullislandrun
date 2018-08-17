@@ -12,7 +12,7 @@ Applied Geographics is thrilled to support this event We want to promote the gre
 
 If you are attending the FOSS4G Dar es Salaam 2018 conference keep a look out for @Guidos to get your NaN K participation sticker.
 
-![Artist redition of Null Island](https://github.com/gnip/null-island/blob/master/null_island_2013.svg)
+![Artist redition of Null Island](https://raw.githubusercontent.com/gnip/null-island/master/null_island_2013.svg)
 
 <a name="people"></a>
 ## What People are sharing
