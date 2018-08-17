@@ -37,7 +37,7 @@ If you are attending the FOSS4G Dar es Salaam 2018 conference keep a look out fo
 
 ## FAQ
 
-### What is Null Island?
+**What is Null Island?**
 
 There is a long and storied history to cartographic anomalies. In the past a map could contain areas with dragons symbolizing uncharted or rough areas. More recently you can find paper roads which have mysterious meaning.
 
