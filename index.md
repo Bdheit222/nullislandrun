@@ -26,11 +26,11 @@ If you are attending the FOSS4G Dar es Salaam 2018 conference keep a look out fo
 
 There is a long and storied history to cartographic anomalies. In the past a map could contain areas with dragons symbolizing uncharted or rough areas. More recently you can find paper roads which have mysterious meaning.
 
-Technology today still faces these types of anomalies. When location data is missing coordinate information they fall onto the mysterious Null Island. It is said to be located near the intersection of the equator and the prime meridian with the coordinates of (0,0). To find out more please [visit the Null Island wiki page] (https://en.wikipedia.org/wiki/Null_Island).
+Technology today still faces these types of anomalies. When location data is missing coordinate information they fall onto the mysterious Null Island. It is said to be located near the intersection of the equator and the prime meridian with the coordinates of (0,0). To find out more please [visit the Null Island wiki page](https://en.wikipedia.org/wiki/Null_Island "Null Island Wiki Page").
 
 ### What is NaN?
 
-NaN is a term to describe results that are Not a Number in the Javascript programming language. It is what happens when you try to add apples with integers. For more information please [visit the NaN wiki page] (https://en.wikipedia.org/wiki/NaN).
+NaN is a term to describe results that are Not a Number in the Javascript programming language. It is what happens when you try to add apples with integers. For more information please [visit the NaN wiki page](https://en.wikipedia.org/wiki/NaN "NaN Wiki Page").
 
 ### How many kilometers is a NaN K?
 
