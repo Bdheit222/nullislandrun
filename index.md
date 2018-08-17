@@ -1,6 +1,7 @@
-## [Welcome](#welcome)
-## [What people are saying](#people)
-## [FAQ](#faq)
+**[Welcome](#welcome)**
+**[What people are saying](#people)**
+**[FAQ](#faq)**
+
 ![Null Island NaN K Run Logo](NINaNk.png)
 
 
