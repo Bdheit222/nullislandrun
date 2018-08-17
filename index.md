@@ -43,7 +43,9 @@ There is a long and storied history to cartographic anomalies. In the past a map
 
 Technology today still faces these types of anomalies. When location data is missing coordinate information they fall onto the mysterious Null Island. It is said to be located near the intersection of the equator and the prime meridian with the coordinates of (0,0). To find out more please [visit the Null Island wiki page](https://en.wikipedia.org/wiki/Null_Island "Null Island Wiki Page").
 
-### How to get to Null Island
+### How do you get to Null Island
+
+The reccomended route to Null Island is to go to Kings Cross in London, go through platform 9 and 3/4, take the train to Hogwarts, borrow a dragon and then fly it to Null Island. Just open a map and look for areas marked "here lie dragons".
 
 
 ### What is NaN?
