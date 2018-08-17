@@ -1,9 +1,9 @@
-**[Welcome](#welcome)**
-**[What people are saying](#people)**
-**[FAQ](#faq)**
-
+<div style="margin-top:30px">
+<a name="welcome"></a>
 ![Null Island NaN K Run Logo](NINaNk.png)
+</div>
 
+# Welcome
 
 Welcome to the **Null Island NaN K Run**. This classic run features a scenic NaN kilometer course around Null Island and supports all the individuals who champion Open Source Geospatial around the world. We welcome all to join us in this incredible run.
 
@@ -32,11 +32,6 @@ If you are attending the FOSS4G Dar es Salaam 2018 conference keep a look out fo
 
   basemap.addTo(map);  
   </script> -->
-<a name="people"></a>
-## What People are sharing
-
-<a class="twitter-moment" href="https://twitter.com/i/moments/1030193700436107264">FOSS4G</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <a name="faq"></a>
 
 ## FAQ
@@ -79,3 +74,10 @@ It depends on where you live, the angle of the sun and stars, what your twitter 
 ### How long will it take to run the NaN K?
 
 Running a NaN K will take less time than reading this sentence no matter what your current minute mile PR is.
+
+<a name="tweets"></a>
+
+## Tweets
+
+<a class="twitter-moment" href="https://twitter.com/i/moments/1030193700436107264">FOSS4G</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
