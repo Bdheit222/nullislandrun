@@ -12,22 +12,24 @@ Applied Geographics is thrilled to support this event We want to promote the gre
 
 If you are attending the FOSS4G Dar es Salaam 2018 conference keep a look out for @Guidos to get your NaN K participation sticker.
 
-<div id="map"></div>
+<div id="map" style="width:200px;height:200px;"></div>
   <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"></script>
-  <script>
+<script lang='babel' type='text/babel'>
+  const map = L.map('map').setView([37, -90], 6);
 
-  // initialize the map
-  var map = L.map('map').setView([42.35, -71.08], 13);
+  const tonerUrl = "http://{S}tile.stamen.com/toner-lite/{Z}/{X}/{Y}.png";
 
-  // load a tile layer
-  L.tileLayer('http://tiles.mapc.org/basemap/{z}/{x}/{y}.png',
-    {
-      attribution: 'Tiles by <a href="http://mapc.org">MAPC</a>, Data by <a href="http://mass.gov/mgis">MassGIS</a>',
-      maxZoom: 17,
-      minZoom: 9
-    }).addTo(map);
+  const url = tonerUrl.replace(/({[A-Z]})/g, s => s.toLowerCase());
 
-  </script>
+  const basemap = L.tileLayer(url, {
+    subdomains: ['', 'a.', 'b.', 'c.', 'd.'],
+    minZoom: 0,
+    maxZoom: 20,
+    type: 'png',
+    attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY SA</a>'
+  });
+
+  basemap.addTo(map);  </script>
 <a name="people"></a>
 ## What People are sharing
 
