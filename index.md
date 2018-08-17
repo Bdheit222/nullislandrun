@@ -8,11 +8,11 @@
 
 Welcome to the **Null Island NaN K Run**. This classic run features a scenic NaN kilometer course around Null Island and supports all the individuals who champion Open Source Geospatial around the world. We welcome all to join us in this incredible run.
 
-Join in the fun by sharing a photo of your office or home workspace with your current Open Source Geospatial project, your location, and the hashtag **#NINaNK** on twitter. 
+Join in the fun by sharing a photo of your office or home workspace with your current Open Source Geospatial project, your location, and the hashtag **[#NINaNK](https://twitter.com/intent/tweet?button_hashtag=NINaNK&ref_src=twsrc%5Etfw)** on twitter. 
 
 Applied Geographics is thrilled to support this event We want to promote the great people who make up the open source geospatial community around the world, even on Null Island. As members of this community we have benefited from the amazing open source projects and their contributors. The Null Island Run is a great way for us to give back by adding some fun to events everywhere.
 
-If you are attending the FOSS4G Dar es Salaam 2018 conference keep a look out for @Guidos to get your NaN K participation sticker.
+If you are attending the FOSS4G Dar es Salaam 2018 conference keep a look out for [@Guidos](https://twitter.com/guidos) to get your NaN K participation sticker.
 
 <!-- <div style="width:200px;height:200px;border: black solid 1px;position:absolute"><div id="map" style="width:200px;height:200px;"></div></div>
   <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"></script>
@@ -52,7 +52,7 @@ NaN is a term to describe results that are Not a Number in the Javascript progra
 NaN is Not a Number, so it could be apple kilometers in length or orange kilometers in length. We don’t really know, but if you figure it out let us know.
 
 **How do I participate in the run?**  
-You can participate in the “run” by sharing the following on twitter with the hashtag #NINaNK:
+You can participate in the “run” by sharing the following on twitter with the hashtag [#NINaNK](https://twitter.com/intent/tweet?button_hashtag=NINaNK&ref_src=twsrc%5Etfw):
 
 - A photo of your workstation with your favorite open source geospatial tools on the screen. You can decide to be in the photo or not, it is up to you.
 - Your location (e.g. town, state, province, country),  whatever you are comfortable sharing online.
@@ -64,7 +64,7 @@ We recommend reading Eloquent Javascript, drinking water, breathing air, and str
 There will be no porta-potties, snacks, or gift bags. Heck, there will be no race course, volunteers, start or finish line either. Participation stickers will be available at conferences when a run representative is present. 
 
 **When is this happening?**  
-It depends on where you live, the angle of the sun and stars, what your twitter situation is, and how much fun you want to have. Feel free to take a photo of your workstation whenever you like and share it on twitter for all to see with the hashtag #NINaNk.
+It depends on where you live, the angle of the sun and stars, what your twitter situation is, and how much fun you want to have. Feel free to take a photo of your workstation whenever you like and share it on twitter for all to see with the hashtag [#NINaNK](https://twitter.com/intent/tweet?button_hashtag=NINaNK&ref_src=twsrc%5Etfw).
 
 **How long will it take to run the NaN K?**  
 Running a NaN K will take less time than reading this sentence no matter what your current minute mile PR is.
