@@ -10,29 +10,10 @@ Welcome to the **Null Island NaN K Run**. This classic run features a scenic NaN
 
 Join in the fun by sharing a photo of your office or home workspace with your current Open Source Geospatial project, your location, and the hashtag **[#NINaNK](https://twitter.com/intent/tweet?button_hashtag=NINaNK&ref_src=twsrc%5Etfw)** on twitter. 
 
-Applied Geographics is thrilled to support this event We want to promote the great people who make up the open source geospatial community around the world, even on Null Island. As members of this community we have benefited from the amazing open source projects and their contributors. The Null Island Run is a great way for us to give back by adding some fun to events everywhere.
+Applied Geographics is thrilled to support this event. We want to promote the great people who make up the open source geospatial community around the world, even on Null Island. As members of this community we have benefited from the amazing open source projects and their contributors. The Null Island Run is a great way for us to give back by adding some fun to events everywhere.
 
 If you are attending the [FOSS4G Dar es Salaam 2018](https://2018.foss4g.org/) conference keep a look out for [@Guidos](https://twitter.com/guidos) to get your NaN K participation sticker.
 
-<!-- <div style="width:200px;height:200px;border: black solid 1px;position:absolute"><div id="map" style="width:200px;height:200px;"></div></div>
-  <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"></script>
-<script>
-  const map = L.map('map').setView([37, -90], 6);
-
-  const tonerUrl = "http://{S}tile.stamen.com/toner-lite/{Z}/{X}/{Y}.png";
-
-  const url = tonerUrl.replace(/({[A-Z]})/g, s => s.toLowerCase());
-
-  const basemap = L.tileLayer(url, {
-    subdomains: ['', 'a.', 'b.', 'c.', 'd.'],
-    minZoom: 0,
-    maxZoom: 20,
-    type: 'png',
-    attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY SA</a>'
-  });
-
-  basemap.addTo(map);  
-  </script> -->
 <a name="faq"></a>
 
 ## FAQ
